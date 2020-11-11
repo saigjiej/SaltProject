@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "36788967264",
+    "firebase_url": "https://salt-shaker-7a5c1.firebaseio.com",
+    "project_id": "salt-shaker-7a5c1",
+    "storage_bucket": "salt-shaker-7a5c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36788967264:android:d09bb636d0b6d9f54e7005",
+        "android_client_info": {
+          "package_name": "com.example.saltproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "36788967264-i3p4uejs7iu5porft1h57uejk81uvtma.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.saltproject",
+            "certificate_hash": "d3b429f71e78834001fca3502b8dcd5d7a2dae61"
+          }
+        },
+        {
+          "client_id": "36788967264-iegpkqna34nqs3ki5uitrovm30rd5iv2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB29NUf_Nn5UVF25VmsUgHQ4nMbSjubAo0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "36788967264-iegpkqna34nqs3ki5uitrovm30rd5iv2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
